@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/GigaFxComponent/src/webgloo
+END
+UploadRunnable.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/GigaFxComponent/src/webgloo/UploadRunnable.java
+END
+Main.fx
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/GigaFxComponent/src/webgloo/Main.fx
+END
+IProgressable.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/GigaFxComponent/src/webgloo/IProgressable.java
+END
+GigaFileUploader.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/GigaFxComponent/src/webgloo/GigaFileUploader.java
+END
+UploadTask.fx
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/GigaFxComponent/src/webgloo/UploadTask.fx
+END
